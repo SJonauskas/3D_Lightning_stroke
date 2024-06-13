@@ -9,5 +9,3 @@ Plotly express was used in visualization. However one can use whatever they pref
 
 Example using Plotly express:
 [image](https://gyazo.com/5eed72b624af98e0469c96da0ff11ec2)
-
-[Right now this is only half baked, there is still a lot to do. Will work on it in my free time, hopefully.]
